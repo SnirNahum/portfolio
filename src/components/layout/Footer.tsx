@@ -54,7 +54,6 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Divider + copyright */}
         <div className="border-t border-border-glass mt-8 pt-8 text-center text-text-muted text-sm">
           &copy; {new Date().getFullYear()} Alex Morgan. All rights reserved.
         </div>
